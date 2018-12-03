@@ -75,4 +75,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 //#define NO_ACTION_MACRO
 //#define NO_ACTION_FUNCTION
 
+// Grave Escape Fix
+# define GRAVE_ESC_ALT_OVERRIDE
+# define GRAVE_ESC_GUI_OVERRIDE
+
 #endif
