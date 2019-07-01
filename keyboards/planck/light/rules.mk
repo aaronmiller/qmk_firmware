@@ -34,3 +34,8 @@ SLEEP_LED_ENABLE = no    # Breathing sleep LED during USB suspend
 
 LAYOUTS = ortho_4x12 planck_mit
 LAYOUTS_HAS_RGB = no
+MIDI_ENABLE = no
+AUDIO_ENABLE = no           # Audio output on port C6
+RGB_MATRIX_ENABLE = no
+
+MCU = at90usb1286
